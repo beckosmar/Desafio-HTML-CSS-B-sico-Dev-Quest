@@ -1,0 +1,24 @@
+td {background-color: #424250;}
+
+table,th,td{ 
+    margin: 8px;
+    padding: 15px;
+    border: solid 1px #ffffff;
+    color:#ffffff;
+    text-align: center;
+    font-size: large;
+    font-weight: 500;
+}
+
+.thmoda{
+    background-color: #BB86FC;
+   }
+
+.thcasa{
+    background-color: #00C4B4;
+   }
+
+   h2{
+       text-align: calc(20px);
+       margin: 10px;
+   }
